@@ -1,0 +1,38 @@
+{
+    "folders": [
+        {
+            "path": ".",
+            "name": "WiMainder API"
+        }
+    ],
+    "settings": {
+        "LSP": {
+            "ltex-ls": {
+                "enabled": false,
+            },
+            "LSP-html": {
+                "enabled": false,
+            },
+            "LSP-tailwindcss": {
+                "enabled": false
+            },
+        },
+    },
+    "build_systems": [
+        {
+            "name": "Lint",
+            "shell_cmd": "composer lint",
+            "quiet": true
+        },
+        {
+            "name": "Lint - Save errors",
+            "shell_cmd": "composer lint:save",
+            "quiet": true
+        },
+        {
+            "name": "Test",
+            "shell_cmd": "composer test",
+            "quiet": true
+        }
+    ]
+}
