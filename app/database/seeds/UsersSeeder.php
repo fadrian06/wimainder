@@ -5,7 +5,6 @@ namespace App\Database\Seeds;
 use App\Database\Factories\UserFactory;
 use Illuminate\Database\Seeder;
 use Leaf\Helpers\Password;
-use Symfony\Component\Uid\Uuid;
 use App\Models\User;
 
 class UsersSeeder extends Seeder {
@@ -23,7 +22,7 @@ class UsersSeeder extends Seeder {
     // or
 
     User::create([
-      'id' => Uuid::v4(),
+      'id' => '3e16c337-7976-42e3-bd6d-c61a18d9a56b',
       'name' => 'Administrador',
       'user' => 'admin',
       'password' => Password::hash('admin123'),

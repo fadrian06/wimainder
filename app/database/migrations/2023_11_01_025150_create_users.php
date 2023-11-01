@@ -16,6 +16,7 @@ class CreateUsers extends Database {
         $table->string('name');
         $table->string('user')->unique();
         $table->string('password');
+        $table->boolean('active')->default(true);
         $table->foreignIdFor(Role::class);
         $table->timestamps();
       });

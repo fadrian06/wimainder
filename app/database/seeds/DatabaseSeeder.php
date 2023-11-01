@@ -10,6 +10,6 @@ class DatabaseSeeder extends Seeder {
    * @return void
    */
   function run(): array {
-    return [RolesSeeder::class, UsersSeeder::class];
+    return [RolesSeeder::class, UsersSeeder::class, CustomersSeeder::class];
   }
 }
