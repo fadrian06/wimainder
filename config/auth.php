@@ -1,6 +1,7 @@
 <?php
 
 use Leaf\Helpers\Password;
+use Symfony\Component\Uid\Uuid;
 
 return [
     /*
@@ -105,7 +106,7 @@ return [
     | Error to show when the login params aren't found in db
     |
     */
-    'LOGIN_PARAMS_ERROR' => 'Username not registered!',
+    'LOGIN_PARAMS_ERROR' => 'Usuario o contraseña incorrecta!',
 
     /*
     |--------------------------------------------------------------------------
@@ -115,7 +116,7 @@ return [
     | Error to show when the login password is wrong
     |
     */
-    'LOGIN_PASSWORD_ERROR' => 'Password is incorrect!',
+    'LOGIN_PASSWORD_ERROR' => 'Usuario o contraseña incorrecta!',
 
     /*
     |--------------------------------------------------------------------------
@@ -185,4 +186,5 @@ return [
     |
     */
     'TOKEN_LIFETIME' => 60 * 60 * 24 * 365,
+    'USE_UUID' => Uuid::v4()
 ];

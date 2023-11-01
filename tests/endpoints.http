@@ -1,3 +1,12 @@
 @host = http://localhost:5500
 
 GET {{host}}/
+
+### AUTH - login
+POST {{host}}/auth/login
+
+### AUTH - register
+POST {{host}}/auth/register
+
+### AUTH - logout
+GET {{host}}/auth/logout

@@ -20,17 +20,18 @@
     }
   ],
   "require": {
-    "leafs/aloe": "dev-master",
-    "illuminate/console": "^8.75",
-    "leafs/mvc-core": "dev-main",
-    "leafs/leaf": "^3.3",
-    "leafs/logger": "*",
-    "leafs/cors": "*",
-    "leafs/auth": "*",
-    "leafs/db": "*"
+    "leafs/aloe": "^1.4",
+    "illuminate/console": "^8.83",
+    "leafs/mvc-core": "^1.3",
+    "leafs/leaf": "^3.5",
+    "leafs/logger": "^1.3",
+    "leafs/cors": "^1.1",
+    "leafs/auth": "^2.3",
+    "leafs/db": "^2.1",
+    "symfony/uid": "^6.3"
   },
   "require-dev": {
-    "fakerphp/faker": "^1.16",
+    "fakerphp/faker": "^1.23",
     "phpstan/phpstan": "^1.10",
     "phpstan/extension-installer": "^1.3",
     "phpstan/phpstan-strict-rules": "^1.5",
@@ -85,7 +86,7 @@
     "lint": "phpstan -cphpstan.neon --no-progress",
     "lint:save": "phpstan -cphpstan.neon --no-progress --generate-baseline=phpstan-errors.neon",
     "test": "phpunit",
-    "dev": "php leaf serve"
+    "dev": "start php leaf serve"
   },
   "minimum-stability": "dev",
   "prefer-stable": true

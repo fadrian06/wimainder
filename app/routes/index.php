@@ -54,3 +54,4 @@ app()->setNamespace('\App\Controllers');
 |
 */
 // require __DIR__ . '/custom-route.php';
+require __DIR__ . '/_auth.php';
