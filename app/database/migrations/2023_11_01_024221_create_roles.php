@@ -8,8 +8,8 @@ class CreateRoles extends Database {
    * Run the migrations.
    * @return void
    */
-  public function up() {
-    if (!static::$capsule::schema()->hasTable('roles')) :
+  function up() {
+    if (!static::$capsule::schema()->hasTable('roles')):
       static::$capsule::schema()->create('roles', function (Blueprint $table) {
         $table->increments('id');
         $table->string('name')->unique();
@@ -26,7 +26,7 @@ class CreateRoles extends Database {
    * Reverse the migrations.
    * @return void
    */
-  public function down() {
+  function down() {
     static::$capsule::schema()->dropIfExists('roles');
   }
 }

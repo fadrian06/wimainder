@@ -13,14 +13,6 @@ class UsersSeeder extends Seeder {
    * @return void
    */
   function run() {
-    // You can directly create db records
-
-    // $user = new User();
-    // $user->field = 'value';
-    // $user->save();
-
-    // or
-
     User::create([
       'id' => '3e16c337-7976-42e3-bd6d-c61a18d9a56b',
       'name' => 'Administrador',

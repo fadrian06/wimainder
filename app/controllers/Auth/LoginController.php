@@ -34,6 +34,7 @@ class LoginController extends Controller {
   }
 
   static function logout() {
+    auth()->logout();
     response()->json('Session destroyed succesfully!');
   }
 }

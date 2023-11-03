@@ -10,15 +10,7 @@ class RolesSeeder extends Seeder {
    * Run the database seeds.
    * @return void
    */
-  public function run() {
-    // You can directly create db records
-
-    // $role = new Role();
-    // $role->field = 'value';
-    // $role->save();
-
-    // or
-
+  function run() {
     Role::create(['name' => 'Administrator']);
     Role::create(['name' => 'Helper']);
     Role::create(['name' => 'Observer']);
