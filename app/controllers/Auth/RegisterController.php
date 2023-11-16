@@ -2,24 +2,27 @@
 
 namespace App\Controllers\Auth;
 
-use Leaf\Form;
-
 class RegisterController extends Controller {
-  static function store() {
-    $credentials = request()->get(['name', 'user', 'password']);
-
-    $validation = Form::validate($credentials, [
+  static function store(): void {
+    $credentials = request()->validate([
       'name' => 'required',
-      'user' => ['username', 'max:15'],
-      'clave' => 'min:8'
+      'user' => 'username|max:15',
+      'password' => 'min:8',
+      'role_id' => 'role_id'
     ]);
 
-    if (!$validation) response()->exit(Form::errors());
+    if (!$credentials) {
+      response()->json(request()->errors(), 400, true);
+      return;
+    }
 
     $user = auth()->register($credentials, ['user']);
 
-    if (!$user) response()->exit(auth()->errors());
+    if (!$user) {
+      response()->json(auth()->errors(), 500, true);
+      return;
+    }
 
-    response()->json($user);
+    response()->json($user, 201, true);
   }
 }

@@ -2,39 +2,32 @@
 
 namespace App\Controllers\Auth;
 
-use Leaf\Form;
-
 class LoginController extends Controller {
-  static function index() {
-    $credentials = request()->get(['user', 'password']);
-
-    Form::rule('max', function (?string $field, string $value, string $params) {
-      if (strlen($value) > $params) {
-        Form::addError($field, "$field cannot be more of $params characters");
-        return false;
-      }
-    });
-
-    $validation = Form::validate($credentials, [
-      'user' => ['required', 'max:15'],
-      'password' => ['required', 'min:8'],
+  static function index(): void {
+    $credentials = request()->validate([
+      'user' => 'required|max:15',
+      'password' => 'required|min:8',
     ]);
 
-    if (!$validation) {
-      response()->exit(Form::errors());
+    if (!$credentials) {
+      response()->json(request()->errors(), 400, true);
+      return;
     }
 
     $user = auth()->login($credentials);
 
     if (!$user) {
-      response()->exit(auth()->errors());
+      response()->json(auth()->errors(), 401, true);
+      return;
     }
 
-    response()->json($user);
+    $user['user'] = self::sanitizeUser($user['user']);
+
+    response()->json($user, 200, true);
   }
 
-  static function logout() {
+  static function logout(): void {
     auth()->logout();
-    response()->json('Session destroyed succesfully!');
+    response()->json('Session destroyed succesfully!', 200, true);
   }
 }

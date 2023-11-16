@@ -10,6 +10,10 @@
 | you set will be called when a 404 error is encountered
 |
 */
+
+use App\Lang\Spanish;
+use Leaf\Form;
+
 app()->set404(function () {
   response()->json('Resource not found', 404, true);
 });
@@ -55,3 +59,18 @@ app()->setNamespace('\App\Controllers');
 */
 // require __DIR__ . '/custom-route.php';
 require __DIR__ . '/_auth.php';
+
+/*
+|--------------------------------------------------------------------------
+| Set up Custom validations
+|--------------------------------------------------------------------------
+*/
+Form::addRule('role_id', '/^(2|3)$/', 'Role IDs must be one supported (2 and 3)');
+
+/*
+|--------------------------------------------------------------------------
+| Set up Language translation
+|--------------------------------------------------------------------------
+*/
+// Form::addMessage(Spanish::validations());
+

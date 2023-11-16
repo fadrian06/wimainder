@@ -3,19 +3,31 @@
 namespace App\Controllers\Auth;
 
 class AccountController extends Controller {
-  function user() {
-    $user = auth()->user(['password']);
+  function user(): void {
+    $user = auth()->user(['id', 'password']);
 
     if (!$user) {
-      response()->exit(auth()->errors());
+      response()->json(auth()->errors(), 401, true);
+      return;
     }
 
-    response()->json($user);
+    $user = self::sanitizeUser($user);
+
+    response()->json($user, 200, true);
   }
 
-  function update() {
-    $data = request()->try(['user', 'name'], true, true);
-    $uniques = ['user', 'email'];
+  static function update(): void {
+    $data = request()->validate([
+      'user' => 'required|username|max:15',
+      'name' => 'required'
+    ]);
+
+    if (!$data) {
+      response()->json(form()->errors(), 400, true);
+      return;
+    }
+
+    $uniques = ['user'];
 
     foreach ($uniques as $key => $unique) {
       if (!isset($data[$unique])) {
@@ -26,9 +38,12 @@ class AccountController extends Controller {
     $user = auth()->update($data, $uniques);
 
     if (!$user) {
-      response()->exit(auth()->errors());
+      response()->json(auth()->errors(), 500, true);
+      return;
     }
 
-    response()->json($user);
+    $user = self::sanitizeUser($user['user']);
+
+    response()->json($user, 200, true);
   }
 }

@@ -106,7 +106,7 @@ return [
     | Error to show when the login params aren't found in db
     |
     */
-    'LOGIN_PARAMS_ERROR' => 'Usuario o contraseña incorrecta!',
+    'LOGIN_PARAMS_ERROR' => 'Username not registered!',
 
     /*
     |--------------------------------------------------------------------------
@@ -116,7 +116,7 @@ return [
     | Error to show when the login password is wrong
     |
     */
-    'LOGIN_PASSWORD_ERROR' => 'Usuario o contraseña incorrecta!',
+    'LOGIN_PASSWORD_ERROR' => 'Password is incorrect!',
 
     /*
     |--------------------------------------------------------------------------
@@ -185,6 +185,6 @@ return [
     | How long should JWT be valid for?
     |
     */
-    'TOKEN_LIFETIME' => 60 * 60 * 24 * 365,
+    'TOKEN_LIFETIME' => 60 * 10,
     'USE_UUID' => Uuid::v4()
 ];

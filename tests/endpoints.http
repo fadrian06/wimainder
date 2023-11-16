@@ -1,12 +1,41 @@
 @host = http://localhost:5500
+@token = eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MDAxNjY1NTYsImlzcyI6ImxvY2FsaG9zdCIsImV4cCI6MTczMTcwMjU1NiwidXNlcl9pZCI6IjNlMTZjMzM3LTc5NzYtNDJlMy1iZDZkLWM2MWExOGQ5YTU2YiJ9.9QNYTP8xCwIemG_Ffmw4zwhHBxMczbHxNRxeACRVafA
 
 GET {{host}}/
 
 ### AUTH - login
 POST {{host}}/auth/login
+Content-Type: application/json
+
+{
+  "user": "admin",
+  "password": "admin123"
+}
 
 ### AUTH - register
 POST {{host}}/auth/register
+Content-Type: application/json
+
+{
+  "name": "Franyer",
+  "user": "fadrian06",
+  "password": "fran1234",
+  "role_id": 2
+}
 
 ### AUTH - logout
-GET {{host}}/auth/logout
+# GET {{host}}/auth/logout
+
+### Profile - user info
+GET {{host}}/user
+Authorization: Bearer {{token}}
+
+### Profile - update user
+POST {{host}}/user/update
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "user": "admin",
+  "name": "Administrador"
+}
