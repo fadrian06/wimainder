@@ -926,7 +926,7 @@
 								"$ref": "AAAAAAGIVAOgqc23Q08="
 							},
 							"name": "id",
-							"type": "INT",
+							"type": "INTEGER",
 							"length": 0,
 							"primaryKey": true
 						},
@@ -1070,7 +1070,7 @@
 								"$ref": "AAAAAAGIVAW/583oDhk="
 							},
 							"name": "idCargo",
-							"type": "INT",
+							"type": "INTEGER",
 							"length": 0,
 							"foreignKey": true,
 							"referenceTo": {
@@ -1125,7 +1125,7 @@
 								"$ref": "AAAAAAGIVCsEAYcNVSs="
 							},
 							"name": "id",
-							"type": "INT",
+							"type": "INTEGER",
 							"length": 0,
 							"primaryKey": true
 						},
@@ -1191,7 +1191,7 @@
 								"$ref": "AAAAAAGIVDJH4IeiXu8="
 							},
 							"name": "id",
-							"type": "INT",
+							"type": "INTEGER",
 							"length": 0,
 							"primaryKey": true
 						},
@@ -1233,7 +1233,7 @@
 								"$ref": "AAAAAAGIVDJH4IeiXu8="
 							},
 							"name": "idCliente",
-							"type": "INT",
+							"type": "INTEGER",
 							"length": 0,
 							"foreignKey": true,
 							"referenceTo": {

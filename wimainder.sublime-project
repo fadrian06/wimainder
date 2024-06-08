@@ -26,22 +26,25 @@
         "source.json.composer": "LSP-json",
         "source.json.sublime": "LSP-json",
       },
+      "LSP-svelte": {
+        "enabled": true
+      },
     },
   },
   "build_systems": [
     {
       "name": "Lint",
-      "shell_cmd": "composer lint",
-      "quiet": true
-    },
-    {
-      "name": "Lint - Save errors",
-      "shell_cmd": "composer lint:save",
+      "shell_cmd": "cd backend & composer lint",
       "quiet": true
     },
     {
       "name": "Test",
-      "shell_cmd": "composer test",
+      "shell_cmd": "cd backend & composer test -- --colors=none",
+      "quiet": true
+    },
+    {
+      "name": "Start server",
+      "shell_cmd": "cd backend & composer dev",
       "quiet": true
     }
   ],
