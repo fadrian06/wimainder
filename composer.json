@@ -1,27 +1,6 @@
 {
-  "name": "faslatam/wimainder",
-  "description": "<Add description>",
-  "type": "project",
-  "keywords": [
-    "framework",
-    "leaf",
-    "leafPHP",
-    "mvc",
-    "leaf api",
-    "api",
-    "project",
-    "rest"
-  ],
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Franyer Sánchez",
-      "email": "franyeradriansanchez@gmail.com",
-      "homepage": "https://faslatam.000webhostapp.com",
-      "role": "Maintainer"
-    }
-  ],
   "require": {
+    "php": ">=8.2",
     "leafs/aloe": "^1.4",
     "leafs/mvc-core": "^1.3",
     "leafs/leaf": "^3.5",
@@ -78,6 +57,7 @@
     }
   },
   "scripts": {
+    "pre-install-cmd": "composer check-platform-reqs",
     "post-root-package-install": [
       "@php -r \"file_exists('.env') || copy('.env.example', '.env');\"",
       "@php -r \"unlink('README.MD'); rename('README2.MD', 'README.MD');\""
@@ -88,7 +68,12 @@
     "lint": "phpstan -cphpstan.neon --no-progress",
     "lint:save": "phpstan -cphpstan.neon --no-progress --generate-baseline=phpstan-errors.neon",
     "test": "phpunit",
-    "dev": "start php leaf serve"
+    "dev": "start php leaf serve",
+    "db:install": [
+      "php leaf db:install-v2",
+      "php leaf db:reset -s",
+      "php leaf db:seed"
+    ]
   },
   "minimum-stability": "dev",
   "prefer-stable": true

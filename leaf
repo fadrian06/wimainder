@@ -70,6 +70,7 @@ $console = new \Aloe\Console("Leaf API", "v3.5.0");
 | Add custom commands
 |
 */
+$console->register(\App\Console\DatabaseInstallWithSQLiteSupportCommand::class);
 
 /*
 |--------------------------------------------------------------------------

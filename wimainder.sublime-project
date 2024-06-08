@@ -14,7 +14,17 @@
         "enabled": false,
       },
       "LSP-tailwindcss": {
-        "enabled": false
+        "enabled": false,
+      },
+      "LSP-intelephense": {
+        "settings": {
+          "intelephense.format.braces": "k&r",
+          "intelephense.environment.phpVersion": "8.2.19",
+        },
+      },
+      "formatters": {
+        "source.json.composer": "LSP-json",
+        "source.json.sublime": "LSP-json",
       },
     },
   },
@@ -34,5 +44,11 @@
       "shell_cmd": "composer test",
       "quiet": true
     }
-  ]
+  ],
+  "connections": {
+    "wimainder.sqlite": {
+      "type": "sqlite",
+      "database": "C:/xampp/htdocs/proyectos/wimainder/app/database/wimainder.sqlite",
+    },
+  },
 }
