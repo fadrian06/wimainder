@@ -2,7 +2,7 @@
   "folders": [
     {
       "path": ".",
-      "name": "WiMainder API"
+      "name": "WiMainder"
     }
   ],
   "settings": {
@@ -48,7 +48,7 @@
   "connections": {
     "wimainder.sqlite": {
       "type": "sqlite",
-      "database": "C:/xampp/htdocs/proyectos/wimainder/app/database/wimainder.sqlite",
+      "database": "C:/xampp/htdocs/proyectos/wimainder/backend/app/database/wimainder.sqlite",
     },
   },
 }

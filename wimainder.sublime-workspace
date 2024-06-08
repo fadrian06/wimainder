@@ -1,0 +1,2038 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"10",
+				"10.4.xsd"
+			],
+			[
+				"date",
+				"dateTimeThisYear"
+			],
+			[
+				"ConnectionFactory",
+				"ConnectionFactory [App\\Database\\Factories]"
+			],
+			[
+				"Throw",
+				"Throwable"
+			],
+			[
+				"fr",
+				"$frecuentCause"
+			],
+			[
+				"fre",
+				"$frecuentCause"
+			],
+			[
+				"regi",
+				"registeredBy"
+			],
+			[
+				"ses",
+				"session"
+			],
+			[
+				"fullN",
+				"getFullName"
+			],
+			[
+				"FETCH",
+				"FETCH_ASSOC"
+			],
+			[
+				"fet",
+				"fetch"
+			],
+			[
+				"con",
+				"$consultation"
+			],
+			[
+				"cons",
+				"$consultationRecord"
+			],
+			[
+				"firs",
+				"firstName"
+			],
+			[
+				"secondLas",
+				"second_last_name"
+			],
+			[
+				"setSecon",
+				"setSecondLastName"
+			],
+			[
+				"setFir",
+				"setFirstLastName"
+			],
+			[
+				"setSecond",
+				"setSecondName"
+			],
+			[
+				"form",
+				"from"
+			],
+			[
+				"Doctor",
+				"Doctor"
+			],
+			[
+				"docto",
+				"doctorsNumber"
+			],
+			[
+				"doc",
+				"doctorRepository"
+			],
+			[
+				"doctor",
+				"doctorRepository"
+			],
+			[
+				"Doct",
+				"Doctor"
+			],
+			[
+				"Gen",
+				"Gender"
+			],
+			[
+				"Doc",
+				"Doctor"
+			],
+			[
+				"render",
+				"renderPage"
+			],
+			[
+				"PDO",
+				"PDO"
+			],
+			[
+				"sa",
+				"save"
+			],
+			[
+				"ge",
+				"getByIdCard"
+			],
+			[
+				"get",
+				"getById"
+			],
+			[
+				"ConSu",
+				"Consultation"
+			],
+			[
+				"c",
+				"$frecuentCause"
+			],
+			[
+				"sho",
+				"short_name"
+			],
+			[
+				"f",
+				"fetch"
+			],
+			[
+				"caus",
+				"cause_id"
+			],
+			[
+				"ext",
+				"extended_name"
+			],
+			[
+				"getE",
+				"getElementById"
+			],
+			[
+				"frec",
+				"frecuent-causes"
+			],
+			[
+				"DES",
+				"DESC"
+			],
+			[
+				"IN",
+				"IN"
+			],
+			[
+				"BE",
+				"BETWEEN"
+			],
+			[
+				"colum",
+				"column2"
+			],
+			[
+				"sele",
+				"SELECT ALL"
+			],
+			[
+				"crea",
+				"CREATE INDEX"
+			],
+			[
+				"drop",
+				"DROP INDEX"
+			],
+			[
+				"CRe",
+				"CREATE TABLE"
+			],
+			[
+				"CR",
+				"CREATE TABLE"
+			],
+			[
+				"cre",
+				"CREATE DATABASE"
+			],
+			[
+				"U",
+				"UPDATE"
+			],
+			[
+				"FRO",
+				"FROM"
+			],
+			[
+				"STR_PAD_",
+				"STR_PAD_LEFT"
+			],
+			[
+				"cau",
+				"$causes"
+			],
+			[
+				"ca",
+				"$causes"
+			],
+			[
+				"array_",
+				"array_slice"
+			],
+			[
+				"co",
+				"$count"
+			],
+			[
+				"h",
+				"$highestIds"
+			],
+			[
+				"reg",
+				"registeredBy"
+			],
+			[
+				"mon",
+				"$monthYear"
+			],
+			[
+				"mo",
+				"$monthYear"
+			],
+			[
+				"accor",
+				"accordion-body"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"lastE",
+				"lastElementChild"
+			],
+			[
+				"inn",
+				"innerText"
+			],
+			[
+				"las",
+				"lastElementChild"
+			],
+			[
+				"getD",
+				"getDay"
+			],
+			[
+				"next",
+				"nextElementSibling"
+			],
+			[
+				"fe",
+				"fetchAll"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"showEP",
+				"showEpi11"
+			],
+			[
+				"rende",
+				"renderPage"
+			],
+			[
+				"data-",
+				"data-bs-toggle=\"modal"
+			],
+			[
+				"registered",
+				"registeredDate"
+			],
+			[
+				"id",
+				"$patientId"
+			],
+			[
+				"setC",
+				"setConsultations"
+			],
+			[
+				"consul",
+				"consultationsNumber"
+			],
+			[
+				"consu",
+				"consultationsNumber"
+			],
+			[
+				"set",
+				"setRegisteredDate"
+			],
+			[
+				"regis",
+				"registered_date"
+			],
+			[
+				"saveCon",
+				"saveConsultationOf"
+			],
+			[
+				"patien",
+				"patient"
+			],
+			[
+				"de",
+				"$department"
+			],
+			[
+				"depa",
+				"departments"
+			],
+			[
+				"Consultation",
+				"ConsultationType"
+			],
+			[
+				"Consu",
+				"ConsultationType"
+			],
+			[
+				"remo",
+				"removeAttribute"
+			],
+			[
+				"i",
+				"isEqualTo"
+			],
+			[
+				"is",
+				"isActive"
+			],
+			[
+				"Consul",
+				"Consultation"
+			],
+			[
+				"FE",
+				"FETCH_ASSOC"
+			],
+			[
+				"Consultatio",
+				"ConsultationCauseCategory"
+			],
+			[
+				"patients",
+				"patientRepository"
+			],
+			[
+				"exten",
+				"extended"
+			],
+			[
+				"Is",
+				"isLowerOrEqualThan"
+			],
+			[
+				"getAll",
+				"getAllWithGenerator"
+			],
+			[
+				"Cons",
+				"ConsultationCause"
+			],
+			[
+				"Gener",
+				"Generator"
+			],
+			[
+				"ConsultationCause",
+				"ConsultationCause"
+			],
+			[
+				"ConsultationCauseRepository",
+				"ConsultationCauseRepository"
+			],
+			[
+				"PDOConsultationCauseCategory",
+				"PDOConsultationCauseCategoryRepository"
+			],
+			[
+				"Conn",
+				"Connection"
+			],
+			[
+				"na",
+				"shortName"
+			],
+			[
+				"Consulta",
+				"ConsultationCauseCategory"
+			],
+			[
+				"se",
+				"setName"
+			],
+			[
+				"extend",
+				"extendedName"
+			],
+			[
+				"conssu",
+				"consultation_causes"
+			],
+			[
+				"App",
+				"App"
+			],
+			[
+				"e",
+				"setError"
+			],
+			[
+				"patie",
+				"patient"
+			],
+			[
+				"Dom",
+				"DOMNode"
+			],
+			[
+				"sec",
+				"secondName"
+			],
+			[
+				"dashed",
+				"dashed"
+			],
+			[
+				"pati",
+				"$patient"
+			],
+			[
+				"arr",
+				"rArr;"
+			],
+			[
+				"secon",
+				"secondLastName"
+			],
+			[
+				"setSeco",
+				"setSecondLastName"
+			],
+			[
+				"fir",
+				"$firstName"
+			],
+			[
+				"setFirs",
+				"setFirstLastName"
+			],
+			[
+				"seco",
+				"secondLastName"
+			],
+			[
+				"fi",
+				"firstLastName"
+			],
+			[
+				"handleEdi",
+				"handleEdition"
+			],
+			[
+				"re",
+				"registeredBy"
+			],
+			[
+				"min",
+				"min-content"
+			],
+			[
+				"D",
+				"Coordinator"
+			],
+			[
+				"bir",
+				"birth_date"
+			],
+			[
+				"Conne",
+				"Connection [App\\Repositories\\Infraestructure\\PDO]"
+			],
+			[
+				"heal",
+				"healthDepartment"
+			],
+			[
+				"mu",
+				"municipality"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Builds/Composer.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"format",
+				"LSP: Format File"
+			],
+			[
+				"descri",
+				"ST: Table Description"
+			],
+			[
+				"refres",
+				"ST: Refresh Connection Data"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"mark",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ui:",
+				"UI: Select Color Scheme"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"refre",
+				"ST: Refresh Connection Data"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"reload",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"trou",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"lsp:",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"restart",
+				"LSP: Restart Server"
+			],
+			[
+				"eable",
+				"Package Control: Enable Package"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"lsp: s",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"removerrp",
+				"Package Control: Remove Repository"
+			],
+			[
+				"repositor",
+				"Package Control: Add Repository"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"package control:",
+				"Package Control: Upgrade All Packages"
+			],
+			[
+				"resta",
+				"LSP: Restart Server"
+			],
+			[
+				"emoj",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"enabe",
+				"Package Control: Enable Package"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"testdox",
+				"PHPUnit: Toggle --testdox"
+			],
+			[
+				"restat",
+				"LSP: Restart Server"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"emoji",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"emo",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"phpunit",
+				"PHPUnit: Toggle --testdox"
+			],
+			[
+				"res",
+				"LSP: Restart Server"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade All Packages"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade All Packages"
+			],
+			[
+				"codeaction",
+				"LSP: Code Action"
+			],
+			[
+				"ope",
+				"Debugger: Open"
+			],
+			[
+				"debugg",
+				"Debugger: Open"
+			],
+			[
+				"test",
+				"PHPUnit: Test Results"
+			],
+			[
+				"debugger",
+				"Debugger: Install Adapters"
+			],
+			[
+				"debug",
+				"Debugger: Install Adapters"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"refresh",
+				"Project: Refresh Folders"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"st: setup",
+				"ST: Setup Connections"
+			],
+			[
+				"remove tag",
+				"Emmet: Remove Tag"
+			],
+			[
+				"code",
+				"Codeium: Provide Auth Token"
+			],
+			[
+				"ui:sel",
+				"UI: Select Theme"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"Title",
+				"Convert Case: Title Case"
+			],
+			[
+				"remove ta",
+				"Emmet: Remove Tag"
+			],
+			[
+				"diff",
+				"History: Toggle Inline Diff"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"vie",
+				"View Package File"
+			],
+			[
+				"enbale",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"revert",
+				"GitGutter: Revert Change to Commit"
+			],
+			[
+				"liver",
+				"LiveReload: Habilitar/deshabilitar complementos"
+			],
+			[
+				"arit",
+				"Arithmetic"
+			],
+			[
+				"liverel",
+				"LiveReload: Habilitar/deshabilitar complementos"
+			],
+			[
+				"merge",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"livere",
+				"LiveReload: Habilitar/deshabilitar complementos"
+			],
+			[
+				"removetag",
+				"Emmet: Remove Tag"
+			],
+			[
+				"removeta",
+				"Emmet: Remove Tag"
+			],
+			[
+				"git",
+				"GitGutter: Revert Change to Commit"
+			],
+			[
+				"rever",
+				"GitGutter: Revert Change to Commit"
+			],
+			[
+				"select",
+				"ST: Select Connection"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"implement",
+				"PHPCompanion:Implement Interface"
+			],
+			[
+				"camel",
+				"Convert Case: UpperCamelCase"
+			],
+			[
+				"lsp:enalbe",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"cls",
+				"Set Syntax: ClojureScript"
+			],
+			[
+				"sftrp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"minify",
+				"Minify::Minificar Archivo"
+			],
+			[
+				"lsp: trou",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"autop",
+				"Autoprefix CSS"
+			],
+			[
+				"mergr",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"lsp: disabe",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"csscl",
+				"CSS Completions: Eliminar Cache"
+			],
+			[
+				"termin",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"css",
+				"CSS Completions: Eliminar Cache"
+			],
+			[
+				"liverelo",
+				"LiveReload: Habilitar/deshabilitar complementos"
+			],
+			[
+				"emmet setti",
+				"Preferences: Emmet Settings"
+			],
+			[
+				"terminus",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"quick",
+				"QuickView: Show Preview"
+			],
+			[
+				"markmon",
+				"Markmon launch"
+			],
+			[
+				"markmo",
+				"Markmon launch"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"sele",
+				"ST: Select Connection"
+			],
+			[
+				"st:",
+				"ST: Select Connection"
+			],
+			[
+				"snippet",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"edit",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"ui:se",
+				"UI: Select Theme"
+			],
+			[
+				"make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"d",
+				"File: Duplicate"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"duplicate",
+				"File: Duplicate"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"lsp dis",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"makes",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"lsp res",
+				"LSP: Restart Server"
+			],
+			[
+				"ui:colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"selec",
+				"ST: Select Connection"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"uiselec",
+				"UI: Select Theme"
+			],
+			[
+				"ui: sele",
+				"UI: Select Theme"
+			],
+			[
+				"select con",
+				"ST: Select Connection"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 528.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/proyectos/wimainder"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/proyectos/wimainder/wimainder.sublime-project",
+		"/C/xampp/htdocs/proyectos/wimainder/app/routes/_auth.php",
+		"/C/xampp/htdocs/proyectos/wimainder/app/controllers/Auth/AccountController.php",
+		"/C/xampp/htdocs/proyectos/wimainder/app/models/Role.php",
+		"/C/xampp/htdocs/proyectos/wimainder/app/models/User.php",
+		"/C/xampp/htdocs/proyectos/wimainder/vendor/leafs/auth/src/functions.php",
+		"/C/xampp/htdocs/proyectos/wimainder/phpstan.neon",
+		"/C/xampp/htdocs/proyectos/wimainder/storage/logs/app.log",
+		"/C/xampp/htdocs/proyectos/wimainder/phpunit.xml",
+		"/C/xampp/htdocs/proyectos/wimainder/.htaccess",
+		"/C/xampp/htdocs/proyectos/wimainder/.env.example",
+		"/C/xampp/htdocs/proyectos/wimainder/.env",
+		"/C/xampp/htdocs/proyectos/wimainder/leaf",
+		"/C/xampp/htdocs/proyectos/wimainder/app/console/DatabaseInstallWithSQLiteSupportCommand.php",
+		"/C/xampp/htdocs/proyectos/wimainder/config/app.php",
+		"/C/xampp/htdocs/proyectos/wimainder/config/auth.php",
+		"/C/xampp/htdocs/proyectos/wimainder/app/database/seeds/CustomersSeeder.php",
+		"/C/xampp/htdocs/proyectos/wimainder/app/database/seeds/ConnectionsSeeders.php",
+		"/C/xampp/htdocs/proyectos/wimainder/composer.json",
+		"/C/xampp/htdocs/proyectos/wimainder/app/database/factories/ConnectionFactory.php",
+		"/C/xampp/htdocs/proyectos/wimainder/app/models/Connection.php",
+		"/C/xampp/htdocs/proyectos/wimainder/app/routes/index.php",
+		"/C/xampp/htdocs/proyectos/wimainder/app/database/seeds/UsersSeeder.php",
+		"/C/xampp/htdocs/proyectos/wimainder/app/lang/Spanish.php",
+		"/C/xampp/htdocs/proyectos/wimainder/app/routes/_app.php",
+		"/C/xampp/htdocs/proyectos/wimainder/vendor/leafs/db/src/Db/Core.php",
+		"/C/xampp/htdocs/proyectos/wimainder/config/database.php",
+		"/C/xampp/htdocs/proyectos/wimainder/public/index.php",
+		"/C/xampp/htdocs/proyectos/wimainder/index.php",
+		"/C/xampp/htdocs/proyectos/wimainder/vendor/leafs/mvc-core/src/globals/paths.php",
+		"/C/xampp/htdocs/proyectos/wimainder/.editorconfig",
+		"/C/xampp/htdocs/proyectos/wimainder/vendor/leafs/aloe/src/Command/DatabaseInstallCommand.php",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/svelte/tutorial/src/App.svelte",
+		"/C/Users/Franyer/.config/starship.toml",
+		"/C/xampp/htdocs/proyectos/haju/app/Middlewares/EnsureOnlyAcceptOneDirector.php",
+		"/C/xampp/htdocs/proyectos/haju/database/init.sqlite.sql",
+		"/C/xampp/htdocs/proyectos/haju/views/components/charts.php",
+		"/C/xampp/htdocs/proyectos/haju/views/pages/users.php",
+		"/C/xampp/htdocs/proyectos/haju/app/Models/Consultation.php",
+		"/C/xampp/htdocs/proyectos/haju/app/Models/Patient.php",
+		"/C/xampp/htdocs/proyectos/haju/app/Models/Contracts/Person.php",
+		"/C/xampp/htdocs/proyectos/haju/requirements.todo",
+		"/C/xampp/htdocs/proyectos/haju/app/routes/web.php",
+		"/C/xampp/htdocs/proyectos/haju/views/pages/login.php",
+		"/C/xampp/htdocs/proyectos/haju/views/layouts/base.php",
+		"/C/xampp/htdocs/proyectos/haju/views/forms/patient-register.php",
+		"/C/xampp/htdocs/proyectos/haju/app/Repositories/Infraestructure/PDO/PDOPatientRepository.php",
+		"/C/xampp/htdocs/proyectos/haju/views/pages/patients/info.php",
+		"/C/xampp/htdocs/proyectos/haju/app/Controllers/Web/PatientWebController.php",
+		"/C/xampp/htdocs/proyectos/haju/app/Repositories/Domain/PatientRepository.php",
+		"/C/xampp/htdocs/proyectos/haju/views/pages/patients/add-consultation.php",
+		"/C/xampp/htdocs/proyectos/haju/app/config.php",
+		"/C/xampp/htdocs/proyectos/haju/app/Controllers/Web/DoctorWebController.php",
+		"/C/xampp/htdocs/proyectos/haju/views/pages/doctors/list.php",
+		"/C/xampp/htdocs/proyectos/haju/views/pages/doctors/edit.php",
+		"/C/xampp/htdocs/proyectos/haju/app/ValueObjects/Date.php",
+		"/C/xampp/htdocs/proyectos/haju/views/pages/settings/institution.php",
+		"/C/xampp/htdocs/proyectos/haju/views/components/sidebar.php",
+		"/C/xampp/htdocs/proyectos/haju/views/pages/home.php",
+		"/C/xampp/htdocs/proyectos/haju/app/Controllers/Web/DepartmentWebController.php",
+		"/C/xampp/htdocs/proyectos/haju/assets/img/icons/hospital-o.svg",
+		"/C/Users/Franyer/AppData/Local/Temp/Rar$DRa1004.37823/SVG/hospital-o.svg",
+		"/C/Users/Franyer/AppData/Local/Temp/Rar$DRa1004.35849/SVG/building.svg",
+		"/C/xampp/htdocs/proyectos/haju/assets/img/icons/cap.svg",
+		"/C/xampp/htdocs/proyectos/haju/assets/img/icons/user-md.svg",
+		"/C/xampp/htdocs/proyectos/haju/assets/img/icons/gears.svg",
+		"/C/xampp/htdocs/proyectos/haju/assets/img/icons/hospital.svg",
+		"/C/xampp/htdocs/proyectos/haju/assets/img/icons/house.svg",
+		"/C/xampp/htdocs/proyectos/haju/assets/img/icons/patient.svg",
+		"/C/xampp/htdocs/proyectos/haju/assets/img/icons/users.svg",
+		"/C/xampp/htdocs/proyectos/haju/app/Controllers/Web/HomeWebController.php",
+		"/C/xampp/htdocs/proyectos/haju/readme.md",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/MarkdownLivePreview/MarkdownLivePreview.sublime-settings",
+		"/C/xampp/htdocs/proyectos/haju/README.md",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/Predawn/messages/install.txt",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/Predawn/messages/2.0.5.txt",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/Predawn/README.md",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/Predawn/assets/Widget - predawn.sublime-settings",
+		"/C/xampp/htdocs/proyectos/haju/views/pages/patients/list.php",
+		"/C/xampp/htdocs/proyectos/haju/app/App.php",
+		"/C/xampp/htdocs/proyectos/haju/app/Models/Doctor.php",
+		"/C/xampp/htdocs/proyectos/haju/app/Repositories/Infraestructure/PDO/PDODoctorRepository.php",
+		"/C/xampp/htdocs/proyectos/haju/assets/css/custom.css",
+		"/C/xampp/htdocs/proyectos/haju/app/Repositories/Domain/DoctorRepository.php",
+		"/C/xampp/htdocs/proyectos/haju/haju.sublime-project",
+		"/C/xampp/htdocs/proyectos/haju/.gitignore",
+		"/C/xampp/htdocs/proyectos/haju/views/components/reports.php",
+		"/C/xampp/htdocs/proyectos/haju/views/components/input-group.php",
+		"/C/xampp/htdocs/proyectos/haju/views/pages/settings/permissions.php",
+		"/C/xampp/htdocs/proyectos/haju/views/pages/profile.php",
+		"/C/xampp/htdocs/proyectos/haju/views/pages/departments.php",
+		"/C/xampp/htdocs/proyectos/haju/assets/vendors/chart.js",
+		"/C/xampp/htdocs/proyectos/haju/views/pages/register.php",
+		"/C/xampp/htdocs/proyectos/haju/views/pages/select-department.php",
+		"/C/xampp/htdocs/proyectos/haju/composer.json",
+		"/C/xampp/htdocs/proyectos/haju/.htaccess",
+		"/C/xampp/htdocs/proyectos/haju/app/commands/db-install.php",
+		"/C/xampp/htdocs/proyectos/haju/.env.php",
+		"/C/xampp/htdocs/proyectos/haju/app/commands/migrate:fresh.php",
+		"/C/xampp/htdocs/proyectos/haju/database/.htaccess",
+		"/C/xampp/htdocs/plantillas/velt/app/main.js",
+		"/C/xampp/htdocs/plantillas/velt/composer.json",
+		"/C/xampp/htdocs/proyectos/haju/views/layouts/main.php",
+		"/C/xampp/htdocs/proyectos/haju/views/components/footer.php",
+		"/C/xampp/htdocs/proyectos/haju/package.json",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/proyectos/haju/views/components/header.php",
+		"/C/xampp/htdocs/proyectos/haju/vendor/twbs/bootstrap/dist/css/bootstrap.css",
+		"/C/xampp/htdocs/proyectos/haju/app/Middlewares/AuthorizationMiddleware.php",
+		"/C/xampp/htdocs/proyectos/haju/views/pages/settings/backups.php",
+		"/C/xampp/htdocs/proyectos/haju/app/database/init.sqlite.sql",
+		"/C/Users/Franyer/scoop/apps/php/8.2.17/php.ini-production",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/User/Completions/sql.sublime-completions",
+		"/C/xampp/htdocs/proyectos/haju/app/Repositories/Infraestructure/PDO/PDOUserRepository.php",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/LiveReload/snippets/livereload_plugin.sublime-snippet",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/LiveReload/snippets/livereload_html.sublime-snippet",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/DocBlockr/php.sublime-completions",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/User/SQLToolsConnections.sublime-settings",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/User/Snippets/HTML/Bootstrap 5.sublime-snippet",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/User/Snippets/HTML/FontAwesome 6.sublime-snippet",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/User/Snippets/W3/W3.CSS.sublime-snippet",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/User/SublimeLinter.sublime-settings",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/User/SublimeTextTrans.sublime-settings",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/User/YAML.sublime-settings",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/User/ayu-dark.sublime-color-scheme",
+		"/C/ProgramData/scoop/persist/sublime-text/Data/Packages/User/bh_core.sublime-settings"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\proyectos\\wimainder\\vendor",
+			"C:\\xampp\\htdocs\\proyectos\\haju\\app",
+			"C:\\xampp\\htdocs\\libs\\flight\\tests"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\",
+			"APP_NAME",
+			"package",
+			"96",
+			"$patient",
+			";\n",
+			"$patient",
+			"$member",
+			"$patient",
+			"patient",
+			"\\,\n",
+			"height: auto",
+			"display_",
+			"style=\"background: white\"",
+			"class=\"position-sticky top-0\" style=\"background: white\"",
+			"highestIds",
+			"dayCell",
+			"middle",
+			"$member",
+			"error",
+			"\\$error",
+			"visitas",
+			"error",
+			"(\"\")",
+			"id",
+			"\\$this\\->repository",
+			"repository",
+			"añadir",
+			"name",
+			"ConsultationCauseCategory",
+			"INSERT INTO consultation_causes (name, variant, code, category_id) VALUES",
+			" 2)",
+			"\\)\\,",
+			"),",
+			"user",
+			"secondName",
+			"readonly",
+			"denyEdit",
+			"disabled",
+			"'disabled readonly'",
+			"0",
+			"$_ENV['DB_DATABASE']",
+			"$_ENV['DB_CONNECTION']",
+			"self::TABLE",
+			"$this->connection->dbName",
+			"DBDriver::select()",
+			"self::TABLE",
+			"SQL_FIELDS",
+			"PHP",
+			"process",
+			"Flight",
+			"void",
+			"users",
+			"usuarios",
+			"except",
+			"user_id",
+			"img",
+			"dropdownMenuLink",
+			"/",
+			"\\\\",
+			"error",
+			"isActive",
+			"registeredDate",
+			"getSecondName",
+			"getActiveStatus()",
+			"getPassword()",
+			"getIdCard()",
+			"getAddress()",
+			"getFirstLastName",
+			"getSecondLastName()",
+			"getFirstLastName()",
+			"getSecondName\\(\\)",
+			"getFirstName\\(\\)",
+			"getId\\(\\)",
+			"role",
+			"users",
+			"saved",
+			"department",
+			"error",
+			"healthDepartment",
+			"municipality",
+			"parish",
+			"place",
+			"type",
+			"asic",
+			"psicológica",
+			"física",
+			"Transto",
+			"$data",
+			"$data = App::request()->data;",
+			"loggedUser",
+			"App::userRepository()",
+			"App::departmentRepository()",
+			"static",
+			"App::settingsRepository()",
+			"App::userRepository()",
+			"App::departmentRepository()",
+			"loggedUser",
+			"static",
+			"App::userRepository()",
+			"App::session()",
+			"static",
+			"repository",
+			"App::departmentRepository()",
+			"echo",
+			"DBConnection",
+			"error",
+			"name",
+			"secondName",
+			"public",
+			"App::form()->errors()",
+			"temporalProfileImagePath",
+			"profileImageRelPath",
+			"$profileImagePath",
+			"profileImagePath",
+			"profileImageName",
+			"<?= route('",
+			"<?= asset('",
+			"<?= route('",
+			"<?= asset('",
+			"')",
+			"<?= asset('",
+			"#000",
+			"!important",
+			"#fff",
+			"input",
+			" ?>",
+			"') ?>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\$this\\->patientRepository",
+			"getSecondName",
+			"firstName",
+			"id",
+			"black",
+			"white",
+			"images/",
+			"function",
+			"self\\:\\:expectOutputString",
+			"self\\:\\:expectOutputRegex",
+			"self\\:\\:assertSame",
+			"self\\:\\:expectException",
+			"self\\:\\:assertFalse",
+			"self\\:\\:assertTrue",
+			"self\\:\\:assertSame",
+			"new Engine",
+			"function",
+			"self::assertSame",
+			"self::assertTrue",
+			"self::assertFalse",
+			"self::assertSame",
+			"assertSame",
+			"new Response",
+			"function",
+			""
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 60.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.SQLTools Result":
+	{
+		"height": 138.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 501.0
+	},
+	"output.diagnostics":
+	{
+		"height": 294.0
+	},
+	"output.exec":
+	{
+		"height": 528.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wimainder.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"DbCore",
+				"vendor\\leafs\\db\\src\\Db\\Core.php"
+			],
+			[
+				"DatabaseInsta",
+				"app\\console\\DatabaseInstallWithSQLiteSupportCommand.php"
+			],
+			[
+				"DatabaseInstall",
+				"vendor\\leafs\\aloe\\src\\Command\\DatabaseInstallCommand.php"
+			],
+			[
+				"init.",
+				"database\\init.sqlite.sql"
+			],
+			[
+				"chart",
+				"views\\components\\charts.php"
+			],
+			[
+				"users.php",
+				"views\\pages\\users.php"
+			],
+			[
+				"Patien",
+				"app\\Models\\Patient.php"
+			],
+			[
+				"Consulta",
+				"app\\Models\\Consultation.php"
+			],
+			[
+				"Person",
+				"app\\Models\\Contracts\\Person.php"
+			],
+			[
+				"login.php",
+				"views\\pages\\login.php"
+			],
+			[
+				"web.php",
+				"app\\routes\\web.php"
+			],
+			[
+				"patient",
+				"views\\forms\\patient-register.php"
+			],
+			[
+				"info.php",
+				"views\\pages\\patients\\info.php"
+			],
+			[
+				"config",
+				"app\\config.php"
+			],
+			[
+				"add-con",
+				"views\\pages\\patients\\add-consultation.php"
+			],
+			[
+				"patientwebp",
+				"app\\Controllers\\Web\\PatientWebController.php"
+			],
+			[
+				"list",
+				"views\\pages\\doctors\\list.php"
+			],
+			[
+				"sidebar",
+				"views\\components\\sidebar.php"
+			],
+			[
+				"home.php",
+				"views\\pages\\home.php"
+			],
+			[
+				"sidea",
+				"views\\components\\sidebar.php"
+			],
+			[
+				"homeweb.",
+				"app\\Controllers\\Web\\HomeWebController.php"
+			],
+			[
+				"patienweb",
+				"app\\Controllers\\Web\\PatientWebController.php"
+			],
+			[
+				"cusom.",
+				"assets\\css\\custom.css"
+			],
+			[
+				"Doctor",
+				"app\\Models\\Doctor.php"
+			],
+			[
+				"input-gr",
+				"views\\components\\input-group.php"
+			],
+			[
+				"profile",
+				"views\\pages\\profile.php"
+			],
+			[
+				"custom",
+				"assets\\css\\custom.css"
+			],
+			[
+				"input.php",
+				"views\\components\\input-group.php"
+			],
+			[
+				"custom.cs",
+				"assets\\css\\custom.css"
+			],
+			[
+				"footer.php",
+				"views\\components\\footer.php"
+			],
+			[
+				"info",
+				"views\\pages\\patients\\info.php"
+			],
+			[
+				"layouts/",
+				"views\\layouts\\main.php"
+			],
+			[
+				"header",
+				"views\\components\\header.php"
+			],
+			[
+				"home",
+				"views\\pages\\home.php"
+			],
+			[
+				"main",
+				"views\\layouts\\main.php"
+			],
+			[
+				"report",
+				"views\\components\\reports.php"
+			],
+			[
+				"base.php",
+				"views\\layouts\\base.php"
+			],
+			[
+				"base",
+				"views\\layouts\\base.php"
+			],
+			[
+				"custom.css",
+				"assets\\css\\custom.css"
+			],
+			[
+				"bootstrap.css",
+				"vendor\\twbs\\bootstrap\\dist\\css\\bootstrap.css"
+			],
+			[
+				"charts",
+				"views\\components\\charts.php"
+			],
+			[
+				"web",
+				"app\\routes\\web.php"
+			],
+			[
+				"patients",
+				"assets\\img\\icons\\patient.svg"
+			],
+			[
+				"conf",
+				"app\\config.php"
+			],
+			[
+				"PDOUser",
+				"app\\Repositories\\Infraestructure\\PDO\\PDOUserRepository.php"
+			],
+			[
+				"minimal",
+				"views\\layouts\\minimal.php"
+			],
+			[
+				"epi11",
+				"views\\pages\\reports\\epi11.php"
+			],
+			[
+				"ConsultationC",
+				"app\\Models\\ConsultationCause.php"
+			],
+			[
+				"Patient",
+				"app\\Models\\Patient.php"
+			],
+			[
+				"select-",
+				"views\\pages\\select-department.php"
+			],
+			[
+				"init.sql",
+				"app\\database\\init.sqlite.sql"
+			],
+			[
+				"input-gro",
+				"views\\components\\input-group.php"
+			],
+			[
+				"epi",
+				"views\\pages\\reports\\epi11.php"
+			],
+			[
+				"departm",
+				"views\\pages\\departments.php"
+			],
+			[
+				"department",
+				"views\\pages\\departments.php"
+			],
+			[
+				"per",
+				"views\\pages\\settings\\permissions.php"
+			],
+			[
+				"init.sq",
+				"app\\database\\init.sqlite.sql"
+			],
+			[
+				"permisi",
+				"views\\pages\\settings\\permissions.php"
+			],
+			[
+				"mini",
+				"views\\layouts\\minimal.php"
+			],
+			[
+				"api.php",
+				"app\\routes\\api.php"
+			],
+			[
+				"users",
+				"views\\pages\\users.php"
+			],
+			[
+				"departmen",
+				"views\\pages\\departments.php"
+			],
+			[
+				"main.php",
+				"views\\layouts\\main.php"
+			],
+			[
+				"sessionwe",
+				"app\\Controllers\\Web\\SessionWebController.php"
+			],
+			[
+				"depa",
+				"views\\pages\\departments.php"
+			],
+			[
+				"regist",
+				"views\\pages\\register.php"
+			],
+			[
+				"login",
+				"views\\pages\\login.php"
+			],
+			[
+				"Control",
+				"app\\Controllers\\Web\\Controller.php"
+			],
+			[
+				"SessionWe",
+				"app\\Controllers\\Web\\SessionWebController.php"
+			],
+			[
+				"PDOUSer",
+				"app\\Repositories\\Infraestructure\\PDO\\PDOUserRepository.php"
+			],
+			[
+				"add-co",
+				"views\\pages\\patients\\add-consultation.php"
+			],
+			[
+				"PDOPa",
+				"app\\Repositories\\Infraestructure\\PDO\\PDOPatientRepository.php"
+			],
+			[
+				"patientwen",
+				"app\\Controllers\\Web\\PatientWebController.php"
+			],
+			[
+				"DAte",
+				"app\\ValueObjects\\Date.php"
+			],
+			[
+				"PDOPatine",
+				"app\\Repositories\\Infraestructure\\PDO\\PDOPatientRepository.php"
+			],
+			[
+				"patientrepo",
+				"app\\Repositories\\Domain\\PatientRepository.php"
+			],
+			[
+				"patientweb",
+				"app\\Controllers\\Web\\PatientWebController.php"
+			],
+			[
+				"PatientRepo",
+				"app\\Repositories\\Domain\\PatientRepository.php"
+			],
+			[
+				"permi",
+				"views\\pages\\settings\\permissions.php"
+			],
+			[
+				"metismen.js",
+				"assets\\vendors\\metismenu\\metisMenu.min.js"
+			],
+			[
+				"input",
+				"views\\components\\input-group.php"
+			],
+			[
+				"Consul",
+				"app\\Models\\Consultation.php"
+			],
+			[
+				"ConsultationCa",
+				"app\\Models\\ConsultationCause.php"
+			],
+			[
+				"Model",
+				"app\\Models\\Contracts\\Model.php"
+			],
+			[
+				"Depar",
+				"app\\Models\\Department.php"
+			],
+			[
+				"Consult",
+				"app\\ValueObjects\\ConsultationType.php"
+			],
+			[
+				"init",
+				"app\\database\\init.sqlite.sql"
+			],
+			[
+				"config.php",
+				"app\\config.php"
+			],
+			[
+				"PDOPatie",
+				"app\\Repositories\\Infraestructure\\PDO\\PDOPatientRepository.php"
+			],
+			[
+				"PatientRep",
+				"app\\Repositories\\Domain\\PatientRepository.php"
+			],
+			[
+				"api",
+				"app\\routes\\api.php"
+			],
+			[
+				"PDOPatien",
+				"app\\Repositories\\Infraestructure\\PDO\\PDOPatientRepository.php"
+			],
+			[
+				"PDOConsulta",
+				"app\\Repositories\\Infraestructure\\PDO\\PDOConsultationCauseCategoryRepository.php"
+			],
+			[
+				"PDOConsul",
+				"app\\Repositories\\Infraestructure\\PDO\\PDOConsultationCauseRepository.php"
+			],
+			[
+				"add-",
+				"views\\pages\\patients\\add-consultation.php"
+			],
+			[
+				"utils",
+				"app\\utils.php"
+			],
+			[
+				"custom.js",
+				"assets\\js\\custom.js"
+			],
+			[
+				"input-grou",
+				"HAJU\\views\\components\\input-group.php"
+			],
+			[
+				"patient.php",
+				"HAJU\\views\\pages\\patient.php"
+			],
+			[
+				"sidbea",
+				"HAJU\\views\\components\\sidebar.php"
+			],
+			[
+				"PDOConsult",
+				"HAJU\\app\\Repositories\\Infraestructure\\PDO\\PDOConsultationCauseRepository.php"
+			],
+			[
+				"ConsultationCauseRepo",
+				"HAJU\\app\\Repositories\\Domain\\ConsultationCauseRepository.php"
+			],
+			[
+				"patientwebc",
+				"HAJU\\app\\Controllers\\Web\\PatientWebController.php"
+			],
+			[
+				"sidbear",
+				"HAJU\\views\\components\\sidebar.php"
+			],
+			[
+				"custo",
+				"HAJU\\assets\\css\\custom.css"
+			],
+			[
+				"main.hp",
+				"HAJU\\views\\layouts\\main.php"
+			],
+			[
+				"api.",
+				"HAJU\\app\\routes\\api.php"
+			],
+			[
+				"Connection",
+				"HAJU\\app\\Repositories\\Infraestructure\\PDO\\Connection.php"
+			],
+			[
+				"Long",
+				"HAJU\\app\\ValueObjects\\LongName.php"
+			],
+			[
+				"sidb",
+				"HAJU\\views\\components\\sidebar.php"
+			],
+			[
+				"PatientWeb",
+				"HAJU\\app\\Controllers\\Web\\PatientWebController.php"
+			],
+			[
+				"PAtientWeb",
+				"HAJU\\app\\Controllers\\Web\\PatientWebController.php"
+			],
+			[
+				"routes",
+				"HAJU\\app\\routes.php"
+			],
+			[
+				"edit-",
+				"HAJU\\views\\pages\\edit-profile.php"
+			],
+			[
+				"profi",
+				"HAJU\\views\\pages\\profile.php"
+			],
+			[
+				"patien",
+				"HAJU\\views\\pages\\patients.php"
+			],
+			[
+				"PDOP",
+				"HAJU\\app\\Repositories\\Infraestructure\\PDO\\PDOPatientRepository.php"
+			],
+			[
+				"Patientw",
+				"HAJU\\app\\Controllers\\Web\\PatientWebController.php"
+			],
+			[
+				"HomeWeb",
+				"HAJU\\app\\Controllers\\Web\\HomeWebController.php"
+			],
+			[
+				"FilesSet",
+				"HAJU\\app\\Repositories\\Infraestructure\\Files\\FilesSettingsRepository.php"
+			],
+			[
+				"DBDri",
+				"HAJU\\app\\ValueObjects\\DBDriver.php"
+			],
+			[
+				"DepartmenRepo",
+				"HAJU\\app\\Repositories\\Infraestructure\\PDO\\PDODepartmentRepository.php"
+			],
+			[
+				"UserWber",
+				"HAJU\\app\\Controllers\\Web\\UserWebController.php"
+			],
+			[
+				"PDORepo",
+				"HAJU\\app\\Repositories\\Infraestructure\\PDO\\PDORepository.php"
+			],
+			[
+				"PDOPA",
+				"HAJU\\app\\Repositories\\Infraestructure\\PDO\\PDOPatientRepository.php"
+			],
+			[
+				"confirm",
+				"HAJU\\views\\components\\confirmation.php"
+			],
+			[
+				"App",
+				"HAJU\\app\\App.php"
+			],
+			[
+				"reset",
+				"HAJU\\assets\\css\\reset.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 499.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\libs\\flight\\flight.sublime-project"
+			],
+			[
+				"saca",
+				"C:\\xampp\\htdocs\\proyectos\\SACADN\\sacadn.sublime-project"
+			],
+			[
+				"sa",
+				"C:\\xampp\\htdocs\\proyectos\\SACADN\\sacadn.sublime-project"
+			],
+			[
+				"fli",
+				"C:\\xampp\\htdocs\\libs\\flight\\flight.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
