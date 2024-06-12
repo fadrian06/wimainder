@@ -19,7 +19,7 @@ class RegisterController extends Controller {
     $user = auth()->register($credentials, ['user']);
 
     if (!$user) {
-      response()->json(auth()->errors(), 500, true);
+      response()->json(auth()->errors(), 409, true);
       return;
     }
 
