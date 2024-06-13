@@ -30,24 +30,8 @@
         "enabled": true
       },
     },
+    "SublimeLinter.linters.php.disable": false
   },
-  "build_systems": [
-    {
-      "name": "Lint",
-      "shell_cmd": "cd backend & composer lint",
-      "quiet": true
-    },
-    {
-      "name": "Test",
-      "shell_cmd": "cd backend & composer test -- --colors=none",
-      "quiet": true
-    },
-    {
-      "name": "Start server",
-      "shell_cmd": "cd backend & composer dev",
-      "quiet": true
-    }
-  ],
   "connections": {
     "wimainder.sqlite": {
       "type": "sqlite",

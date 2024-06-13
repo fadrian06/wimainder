@@ -1,0 +1,91 @@
+@host = http://localhost/proyectos/wimainder/api
+@token = lpuqiilujoqvc8natj7l373t06
+
+###
+GET {{host}}/users
+Cookie: PHPSESSID={{token}}
+
+###
+GET {{host}}/users/fadrian06
+Cookie: PHPSESSID={{token}}
+
+###
+POST {{host}}/users
+Content-Type: application/json
+Cookie: PHPSESSID={{token}}
+
+{
+  "user": "fadrian06",
+  "name": "Franyer",
+  "password": "1234",
+  "role": "admin"
+}
+
+###
+PATCH {{host}}/users/fadrian06
+Content-Type: application/json
+Cookie: PHPSESSID={{token}}
+
+{
+  "name": "Franyer"
+}
+
+###
+DELETE {{host}}/users/fadrian06
+Cookie: PHPSESSID={{token}}
+
+###
+POST {{host}}/login
+Content-Type: application/json
+
+{
+  "user": "fadrian06",
+  "password": "12345"
+}
+
+###
+GET {{host}}/clients
+Cookie: PHPSESSID={{token}}
+
+###
+GET {{host}}/clients/ab:ab:ab:ab:ab:ab
+Cookie: PHPSESSID={{token}}
+
+###
+PATCH {{host}}/clients/ab:ab:ab:ab:ab:ab
+Cookie: PHPSESSID={{token}}
+Content-Type: application/json
+
+{
+  "isActive": true,
+  "name": "José"
+}
+
+###
+DELETE {{host}}/clients/ab:ab:ab:ab:ab:ab
+Cookie: PHPSESSID={{token}}
+
+###
+GET {{host}}/connections
+Cookie: PHPSESSID={{token}}
+
+###
+GET {{host}}/connections/2024-06-13 17:24:54
+Cookie: PHPSESSID={{token}}
+
+###
+POST {{host}}/connections
+Cookie: PHPSESSID={{token}}
+Content-Type: application/json
+
+{
+  "client": {
+    "mac": "ab:ab:ab:ab:ab:ab",
+    "name": "yender"
+  },
+  "days": 30
+}
+
+###
+DELETE {{host}}/connections/2024-06-13 17:25:02
+Cookie: PHPSESSID={{token}}
