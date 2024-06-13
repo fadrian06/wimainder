@@ -379,7 +379,7 @@
 									"font": "Roboto;13;1",
 									"left": 560,
 									"top": 261,
-									"width": 169.7373046875,
+									"width": 152.69384765625,
 									"height": 13,
 									"text": "conexiones"
 								},
@@ -406,7 +406,7 @@
 											"font": "Roboto;13;0",
 											"left": 565,
 											"top": 284,
-											"width": 159.7373046875,
+											"width": 142.69384765625,
 											"height": 13
 										},
 										{
@@ -422,23 +422,7 @@
 											"font": "Roboto;13;0",
 											"left": 565,
 											"top": 299,
-											"width": 159.7373046875,
-											"height": 13
-										},
-										{
-											"_type": "ERDColumnView",
-											"_id": "AAAAAAGIVDfExYfPgos=",
-											"_parent": {
-												"$ref": "AAAAAAGIVDJH4oemQkQ="
-											},
-											"model": {
-												"$ref": "AAAAAAGIVDfEp4fM/fY="
-											},
-											"fillColor": "#d8fff8",
-											"font": "Roboto;13;0",
-											"left": 565,
-											"top": 314,
-											"width": 159.7373046875,
+											"width": 142.69384765625,
 											"height": 13
 										},
 										{
@@ -453,8 +437,8 @@
 											"fillColor": "#d8fff8",
 											"font": "Roboto;13;0",
 											"left": 565,
-											"top": 329,
-											"width": 159.7373046875,
+											"top": 314,
+											"width": 142.69384765625,
 											"height": 13
 										},
 										{
@@ -469,8 +453,8 @@
 											"fillColor": "#d8fff8",
 											"font": "Roboto;13;0",
 											"left": 565,
-											"top": 344,
-											"width": 159.7373046875,
+											"top": 329,
+											"width": 142.69384765625,
 											"height": 13
 										}
 									],
@@ -478,16 +462,16 @@
 									"font": "Roboto;13;0",
 									"left": 560,
 									"top": 279,
-									"width": 169.7373046875,
-									"height": 83
+									"width": 152.69384765625,
+									"height": 68
 								}
 							],
 							"fillColor": "#d8fff8",
 							"font": "Roboto;13;0",
 							"left": 560,
 							"top": 256,
-							"width": 169.7373046875,
-							"height": 106,
+							"width": 152.69384765625,
+							"height": 91,
 							"autoResize": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGIVDJH4oel8dg="
@@ -632,7 +616,7 @@
 										"$ref": "AAAAAAGIVDy24ogt1ZM="
 									},
 									"font": "Roboto;13;0",
-									"left": 754,
+									"left": 737,
 									"top": 344,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -650,7 +634,7 @@
 								"$ref": "AAAAAAGIVCsEA4cP3fE="
 							},
 							"lineStyle": 2,
-							"points": "727:176;776:176;776:336;729:336",
+							"points": "727:176;776:176;776:336;712:336",
 							"nameLabel": {
 								"$ref": "AAAAAAGIVDy24ogun90="
 							},
@@ -896,18 +880,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIVDJH4IeiXu8="
 							},
-							"name": "expiracion",
-							"type": "DATE",
-							"length": 0
-						},
-						{
-							"_type": "ERDColumn",
-							"_id": "AAAAAAGIVDfEp4fM/fY=",
-							"_parent": {
-								"$ref": "AAAAAAGIVDJH4IeiXu8="
-							},
-							"name": "monto",
-							"type": "DECIMAL",
+							"name": "dias",
+							"type": "INTEGER",
 							"length": 0
 						},
 						{
